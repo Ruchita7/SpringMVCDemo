@@ -2,10 +2,11 @@
 Simple program to demonstrate Spring MVC using Spring boot
 
 
-Urls to test :
+<h3>Urls to test</h3> :
 
-http://localhost:8080
-http://localhost:8080/findPersonByTech?tech=java
-http://localhost:8080/displayAll
+http://localhost:8080<br/>
+http://localhost:8080/findPersonByTech?tech=java<br/>
+http://localhost:8080/displayAll<br/>
 
-H2 console : http://localhost:8080/h2-console
+
+<h3>H2 console</h3> : http://localhost:8080/h2-console
